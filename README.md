@@ -13,19 +13,19 @@ Technology – Use of IBM Cloud Lite services and IBM Granite AI model is mandat
 #  Proposed Solution: AI-Powered Audio Signal Processing Assistant Agent
 To address common challenges in audio signal processing and circuit design, this project introduces an intelligent virtual assistant tailored for students, electronics engineers, and hobbyists. The Audio Signal Processing Assistant Agent provides real-time support and expert guidance for diagnosing and resolving issues in audio circuits—such as signal distortion, grounding faults, noise interference, and filter misconfigurations.
 
-# 🚀 Technologies Used
+# Technologies Used
 - IBM Granite AI Model – For advanced natural language understanding and domain-specific reasoning
 - IBM Watson Studio – For model development, integration, and testing
 - IBM Cloud Lite – For lightweight, scalable deployment and remote accessibility
   
-# 🔧 Key Features
+# Key Features
 - Natural Language Interface – Enables intuitive, conversational interaction
 - Technical Query Resolution – Supports troubleshooting for circuits like preamplifiers, filters, and amplifiers
 - Noise Reduction & Signal Optimization – Offers actionable suggestions to improve signal quality
 - Design Recommendations – Provides tips on grounding, shielding, and component selection
 - Cloud-Based Access – Ensures remote usability and real-time assistance
   
-# 🎯 Project Goals
+# Project Goals
 By combining domain-specific expertise with IBM’s AI and cloud ecosystem, this assistant aims to:
 - Minimize time spent on manual troubleshooting
 - Enhance precision in audio circuit design
